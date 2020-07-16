@@ -1,0 +1,19 @@
+C:\Users\lenovo\source\repos\Gra Snake\Gra Snake\bin\Debug\Gra Snake.exe.config
+C:\Users\lenovo\source\repos\Gra Snake\Gra Snake\bin\Debug\Gra Snake.exe
+C:\Users\lenovo\source\repos\Gra Snake\Gra Snake\bin\Debug\Gra Snake.pdb
+C:\Users\lenovo\source\repos\Gra Snake\Gra Snake\obj\Debug\Gra Snake.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Gra Snake\Gra Snake\obj\Debug\Gra_Snake.Form1.resources
+C:\Users\lenovo\source\repos\Gra Snake\Gra Snake\obj\Debug\Gra_Snake.Properties.Resources.resources
+C:\Users\lenovo\source\repos\Gra Snake\Gra Snake\obj\Debug\Gra Snake.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\Gra Snake\Gra Snake\obj\Debug\Gra Snake.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Gra Snake\Gra Snake\obj\Debug\Gra Snake.exe
+C:\Users\lenovo\source\repos\Gra Snake\Gra Snake\obj\Debug\Gra Snake.pdb
+C:\Users\Kamil\Desktop\Snake\Gra Snake\Gra Snake\bin\Debug\Gra Snake.exe.config
+C:\Users\Kamil\Desktop\Snake\Gra Snake\Gra Snake\bin\Debug\Gra Snake.exe
+C:\Users\Kamil\Desktop\Snake\Gra Snake\Gra Snake\bin\Debug\Gra Snake.pdb
+C:\Users\Kamil\Desktop\Snake\Gra Snake\Gra Snake\obj\Debug\Gra Snake.csprojAssemblyReference.cache
+C:\Users\Kamil\Desktop\Snake\Gra Snake\Gra Snake\obj\Debug\Gra_Snake.Form1.resources
+C:\Users\Kamil\Desktop\Snake\Gra Snake\Gra Snake\obj\Debug\Gra_Snake.Properties.Resources.resources
+C:\Users\Kamil\Desktop\Snake\Gra Snake\Gra Snake\obj\Debug\Gra Snake.csproj.GenerateResource.cache
+C:\Users\Kamil\Desktop\Snake\Gra Snake\Gra Snake\obj\Debug\Gra Snake.exe
+C:\Users\Kamil\Desktop\Snake\Gra Snake\Gra Snake\obj\Debug\Gra Snake.pdb
